@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(110, 110, 212);
+  background-color: #f16969;
 }
 
 div {
@@ -16,12 +16,13 @@ div {
 
 button {
   padding: 15px;
-  background-color: rgb(110, 110, 212);
+  background-color: #f16969;
   color: white;
   border: none;
   border-radius: 7px;
   width: 50%;
   margin-bottom: 5%;
+  font-size: 15px;
 }
 input {
   padding: 15px;
@@ -29,6 +30,7 @@ input {
   border-radius: 7px;
   border: 1.5px solid black;
   margin-bottom: 7%;
+  font-size: 15px;
 }
 p {
   color: rgb(39, 39, 39);
