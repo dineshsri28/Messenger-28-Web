@@ -1,5 +1,5 @@
 body {
-  background-color: #f16969;
+  background-color: rgb(110, 110, 212);
 }
 
 div {
@@ -16,7 +16,7 @@ div {
 
 button {
   padding: 15px;
-  background-color: #f65a5b;
+  background-color: rgb(110, 110, 212);
   color: white;
   border: none;
   border-radius: 7px;
