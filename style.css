@@ -1,0 +1,39 @@
+body {
+  background-color: #f16969;
+}
+
+div {
+  width: 30%;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px auto;
+  margin-top: 15%;
+  background-color: rgb(226, 223, 223);
+  border-radius: 7px;
+}
+
+button {
+  padding: 15px;
+  background-color: #f65a5b;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  margin-top: 3%;
+  width: 50%;
+  margin-bottom: 7%;
+}
+input {
+  padding: 15px;
+  width: 70%;
+  border-radius: 7px;
+  border: 1.5px solid black;
+  margin-bottom: 7%;
+}
+p {
+  color: rgb(39, 39, 39);
+  font-size: 32px;
+  letter-spacing: 1.5px;
+  font-weight: 500;
+}
